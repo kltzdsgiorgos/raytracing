@@ -1,0 +1,3 @@
+/home/giorgos/raytracing/build/CMakeFiles/raytracing.dir
+/home/giorgos/raytracing/build/CMakeFiles/edit_cache.dir
+/home/giorgos/raytracing/build/CMakeFiles/rebuild_cache.dir
